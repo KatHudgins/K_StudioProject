@@ -143,6 +143,7 @@ h1 {
 {
     font-family: 'Trade Winds', cursive;
     text-align: center;
+    margin-top:4%;
 }
 
 .aboutusContainer
@@ -151,22 +152,16 @@ h1 {
     font-size: 1.8em;
 }
 
-.ab-Row
-{
-    width: 100%;
-}
-
 .col-md-9Push-md-3
 {
     float:right;
-    width:58%;
-    margin-right:10em;
+    width:52%;
+    margin-right:15%;
 }
 
 .col-md-3Pull-md-9 
 {
-    margin-left: 10em;
-    width: 28%;
+    margin-left: 15%;
 }
 
 /******Why Choose Us******/
@@ -174,6 +169,7 @@ h1 {
 {
     font-family: 'Trade Winds', cursive;
     text-align: center;
+    margin-top:4%;
 }
 
 .chooseusContainer 
@@ -185,29 +181,28 @@ h1 {
 .cu-Row-1 .col-md-6
 {
     float: right;
-    width: 42%;
-    margin-right: 8em;
-    margin-top: 2.6em;
+    width: 44.8%;
+    margin-right: 6%;
+    margin-top: 3.2%;
 }
 
 .col-md-6Offset-md-6 
 {
-    margin-left: 8em;
+    margin-left: 8.6%;
 }
 
 .cu-Row-2 .col-md-6
 {
     float: left;
     width: 40%;
-    margin-left: 8em;
-    margin-top: 2.8em;
-    padding-right: 6em;
+    margin-left: 8.6%;
+    margin-top:3.2%;
+    padding-right: 6%;
 }
 
 .col-md-6Offset-md-6 
 {
-    margin-top: 4em;
-    margin-right: 6em;
+    margin-top: 4%;
 }
 
 /******FOOTER******/
@@ -264,8 +259,8 @@ section article div ul li a
     position: relative;
     background-image: linear-gradient(60deg,#404040,#1C388C,#404040);
     box-shadow: 0px 0px 16px 14px #404040;
-    padding: 0 4em 6em 4em;
-    margin-bottom: 48em;
+    padding: 0 2% 4% 2%;
+    margin-bottom: 12%;
     color: #c4c4c4;
 }
 
@@ -313,7 +308,7 @@ opacity: 0;
 .c-Row-1 .col-md-12 
 {
     text-align: center;
-    margin: 0 4em 2.8em 4em;
+    margin: 2% 2% 4% 2%;
     font-family: 'Oswald', sans-serif;
     font-size: 1.6em;
 }
@@ -333,8 +328,8 @@ opacity: 0;
      max-height: 400px;
      width: 20%;
      box-sizing: content-box;
-     padding: .8em;
-     margin-bottom: 4em;
+     padding: .8%;
+     margin-bottom: 4%;
      display: inline-grid;
      overflow-y: scroll;
      background-image: radial-gradient(ellipse at top, #b388ff, transparent), radial-gradient(ellipse at bottom, #1C388C, transparent);
@@ -346,8 +341,8 @@ opacity: 0;
     max-height: 400px;
     width: 20%;
     box-sizing: content-box;
-    padding: .8em;
-    margin-bottom: 4em;
+    padding: .8%;
+    margin-bottom: 4%;
     display: inline-grid;
     overflow-y: scroll;
     justify-content: center;
@@ -378,8 +373,8 @@ opacity: 0;
     max-height: 400px;
     width: 20%;
     box-sizing: content-box;
-    padding: .8em;
-    margin-bottom: 4em;
+    padding: .8%;
+    margin-bottom: 4%;
     display: inline-grid;
     overflow-y: scroll;
     background-image: radial-gradient(ellipse at top, #b388ff, transparent), radial-gradient(ellipse at bottom, #1C388C, transparent);
@@ -391,8 +386,8 @@ opacity: 0;
     max-height: 400px;
     width: 20%;
     box-sizing: content-box;
-    padding: .8em;
-    margin-bottom: 4em;
+    padding: .8%;
+    margin-bottom: 4%;
     display: inline-grid;
     overflow-y: scroll;
     justify-content: center;
@@ -404,7 +399,7 @@ opacity: 0;
 /******COURSE TABLE******/
 table.purpleHorizon 
 {
-    margin-top:8em;
+    margin-top:8%;
     border: 4px solid #404040;
     background-color: #404040;
     width: 100%;
@@ -416,7 +411,7 @@ table.purpleHorizon
     table.purpleHorizon td, table.purpleHorizon th 
     {
         border: 1px solid #B0C1D9;
-        padding: 20px 26px;
+        padding: 1.2% 1.4%;
     }
 
     table.purpleHorizon tbody td 
@@ -481,7 +476,7 @@ table.purpleHorizon thead th:first-child
     box-shadow: 0px 0px 16px 14px #404040;
     float: right;
     width: 22%;
-    margin-right: 1.4em;
+    margin-right: 1.4%;
     height: 70em;
 }
 
@@ -501,10 +496,9 @@ table.purpleHorizon thead th:first-child
         font-size: 1.6em;
         list-style: none;
         display: inline-block;
-        padding: 24px;
-        margin-right: 2em;
-        margin-left: 2em;
-        padding-top: 4em;
+        padding: 18%;
+        margin-right: 2%;
+        margin-left: 2%;
     }
 
 #SideNav li:hover 
@@ -536,8 +530,8 @@ table.purpleHorizon thead th:first-child
 #S-img2 
 {
     float: left;
-    margin-right: 1em;
-    margin-left: 10em;
+    margin-right: 2%;
+    margin-left: 8%;
 }
 
 .cp,
@@ -553,8 +547,8 @@ table.purpleHorizon thead th:first-child
 .s1,
 .s2
 {
-    margin-top:2em;
-    margin-bottom:10em;
+    margin-top:2%;
+    margin-bottom:16%;
 }
 
 #L,
@@ -570,7 +564,7 @@ table.purpleHorizon thead th:first-child
 #S1,
 #S2 
 {
-    padding-top: .8em;
+    padding-top: 2.4%;
 }
 /******CONTACT PAGE******/
 .Contact-row h2 
@@ -600,5 +594,5 @@ table.purpleHorizon thead th:first-child
 }
 .Contact-row
 {
-    margin-bottom:46.6em;
+    margin-bottom:34.8%;
 }
